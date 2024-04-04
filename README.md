@@ -10,7 +10,7 @@
 - [ ] Avatar
 - [ ] MultiStep
 
-### package.json build
+### package.json build do docs
 
 use `"build": "storybook build && echo. > ./storybook-static/.nojekyll"` for windows  
 use `"build": "storybook build && touch ./storybook-static/.nojekyll",` for linux and github web pages deploy
